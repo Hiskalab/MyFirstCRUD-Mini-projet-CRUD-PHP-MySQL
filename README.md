@@ -14,6 +14,44 @@ L’objectif était de comprendre :
 - Mettre en pratique des "INNER JOIN"
 - Réaliser un backoffice administrateur
 
+## Architecture
+
+```
+
+MyFirstCRUD-Mini-projet-CRUD-PHP-MySQL/
+|
+├── Looping/
+│   └── MyFirstCRUD.loo
+│
+├── sql/
+│   └── MyFirstCRUD.sql
+|
+├── architecture/
+│   └── architecture.txt
+│
+├── addComment.php
+├── addLink.php
+├── backoffice.php
+├── commentaire.php
+├── connexion.php
+├── deconnexion.php
+├── index.php
+├── inscription.php
+├── modifier.php
+├── pdo.php
+├── result_addComment.php
+├── result_addLink.php
+├── result_connexion.php
+├── result_inscription.php
+├── result_modifier.php
+├── supprimer.php
+|
+├── styles.css
+|
+└── README.md
+
+```
+
 ## Installation
 
 ```
